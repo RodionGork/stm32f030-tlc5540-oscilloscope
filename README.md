@@ -25,6 +25,6 @@ you may try more advanced chip running at higher speed (some of STM32F4... for e
 
 ### Current solution
 
-Currently device is capable of fetching data at 4 megasamples. This allows
-analyzing signals of up to 1.5 MHz (i.e. 20 times better compared to arduino-based
-solutions). Few improvements may follow to improve this speed yet.
+Currently device is capable of fetching data at 8 megasamples. This allows
+analyzing signals of up to 3 MHz (i.e. 40 times better compared to arduino-based
+solutions).
